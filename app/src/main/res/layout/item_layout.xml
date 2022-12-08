@@ -7,10 +7,10 @@
     android:layout_height="wrap_content">
 
     <ImageView
-        android:id="@+id/imageView5"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:srcCompat="@drawable/harvest"
+        android:id="@+id/imageView3"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:srcCompat="@drawable/snob"
         tools:layout_editor_absoluteX="219dp" />
 
     <LinearLayout
